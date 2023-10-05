@@ -8,7 +8,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://twitter.com/your_twitter">🐦 Twitter</a> •
+  <a href="https://twitter.com/yoseph__zemede">🐦 Twitter</a> •
   <a href="mailto:zemedeyoseph@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/yosephzemede">🔗 LinkedIn</a>
 </p>
@@ -43,7 +43,7 @@
 <h2>🌐 Connect with Me</h2>
 <p>Let's connect and discuss tech, innovation, and exciting ideas!</p>
 <p>
-  💬 Reach out to me on [Twitter](https://twitter.com/your_twitter) for a chat or to share your thoughts.<br>
+  💬 Reach out to me on [Twitter](https://twitter.com/yoseph__zemede) for a chat or to share your thoughts.<br>
   📧 Send me an [Email](mailto:zemedeyoseph@gmail.com) if you'd like to get in touch directly.<br>
   🔗 Visit my [LinkedIn](https://www.linkedin.com/in/yosephzemede) profile to learn more about my professional journey.
 </p>
