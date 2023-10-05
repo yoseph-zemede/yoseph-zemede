@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Yoseph Zemede">
-</p>
 
 <h1 align="center">👋 Hello, I'm Yoseph Zemede</h1>
 <p align="center">🚀 Passionate coder & tech enthusiast</p>
