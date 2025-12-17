@@ -1,42 +1,40 @@
 # Yoseph Zemede
-**Data Scientist | Machine Learning Engineer**
 
-I am a results-driven Data Scientist and Machine Learning Engineer focused on transforming complex datasets into actionable insights. With a strong foundation in Computer Science, I specialize in developing predictive models, refining data pipelines, and deploying scalable machine learning solutions that solve real-world business challenges.
+I’m a Data Scientist and ML Engineer focused on the intersection of statistical modeling and scalable software architecture. I spend most of my time building models that extract signal from noisy data and deploying them into production environments.
 
-[LinkedIn](https://www.linkedin.com/in/yosephzemede) • [Email](mailto:zemedeyoseph@gmail.com) • [Twitter](https://twitter.com/yoseph__zemede)
-
----
-
-### 🛠 Technical Expertise
-
-* **Machine Learning & AI:** Supervised/Unsupervised Learning, Deep Learning (TensorFlow, PyTorch), Natural Language Processing (NLP), Computer Vision, and Scikit-learn.
-* **Data Engineering:** Designing robust ETL pipelines, SQL/NoSQL database management, and data manipulation using Pandas and NumPy.
-* **Statistical Analysis:** Hypothesis testing, Bayesian inference, and exploratory data analysis (EDA).
-* **Backend & Deployment:** Python (Django, Flask, FastAPI), Docker, and RESTful API integration.
-* **Cloud Infrastructure:** Architecting solutions on Google Cloud Platform (GCP) and managing version control via Git.
+[LinkedIn](https://www.linkedin.com/in/yosephzemede) • [zemedeyoseph@gmail.com](mailto:zemedeyoseph@gmail.com)
 
 ---
 
-### 🔬 Featured Projects
+### 🛠 Technical Stack
 
-**[Cross-Country Health Data Analytics](https://github.com/yourusername/project-link)**
-Advanced exploratory data analysis (EDA) and visualization tool designed to identify national health trends. Utilized statistical modeling to compare global health indicators and provide data-backed insights into public health outcomes.
-
-**[AI-Driven Text Summarization Engine](https://github.com/yourusername/project-link)**
-An NLP-based system that leverages Large Language Models (LLMs) to summarize high-volume news feeds. Focused on optimizing keyword extraction and semantic relevance to improve information density for end-users.
-
-**[Predictive Recipe Recommendation System](https://github.com/yourusername/project-link)**
-A full-stack application integrating a Firebase backend with a machine learning layer to provide personalized content recommendations based on user behavior and dietary preferences.
+* **ML/Deep Learning:** PyTorch, TensorFlow, Scikit-learn. Focus on NLP and Predictive Analytics.
+* **Data Science:** Feature engineering, statistical inference, and EDA using Pandas/NumPy.
+* **Infrastructure:** Building and containerizing ML microservices with FastAPI, Docker, and GCP.
+* **Databases:** SQL for complex relational queries and Firebase for real-time applications.
 
 ---
 
-### 📈 Current Focus
-I am currently refining my expertise in **MLOps**—specifically focusing on the lifecycle management of models, from automated retraining to monitoring performance drift in production environments. I am also exploring the intersection of **Generative AI** and structured data analysis.
+### 🔬 Selective Projects
+
+**[National Health Data Analytics](https://github.com/yourusername/project-link)**
+Developed a comparative analysis tool to identify correlations in national health indicators. Focused on handling missing data and normalizing disparate datasets to ensure accurate year-over-year comparisons.
+
+**[NLP News Summarization](https://github.com/yourusername/project-link)**
+Built a system to process and summarize high-volume text data. I implemented custom keyword extraction and used LLM APIs to generate concise summaries, optimizing for semantic accuracy while minimizing latency.
+
+**[Recipe Discovery Engine](https://github.com/yourusername/project-link)**
+A mobile-first application using a Firebase backend. I focused on the data schema and building a recommendation layer that suggests content based on historical user interactions.
 
 ---
 
-### 🤝 Let's Connect
-I enjoy collaborating on open-source projects and discussing new developments in the AI space. Whether you're looking to discuss a potential project or just want to talk about data, feel free to reach out.
+### 🔭 Current Interests
+Right now, I'm diving deeper into **MLOps**—specifically looking at model monitoring and handling data drift in production. I'm also experimenting with local LLM deployments and fine-tuning techniques for specialized domain tasks.
 
-* **Email:** [zemedeyoseph@gmail.com](mailto:zemedeyoseph@gmail.com)
-* **LinkedIn:** [/in/yosephzemede](https://www.linkedin.com/in/yosephzemede)
+---
+
+### 💬 Reach Out
+If you're working on interesting data problems or want to talk about ML architecture, I’m always open to a technical deep dive.
+
+* **Twitter:** [@yoseph__zemede](https://twitter.com/yoseph__zemede)
+* **LinkedIn:** [yosephzemede](https://www.linkedin.com/in/yosephzemede)
